@@ -21,8 +21,8 @@
 </p>
 
 <p align="center"> 
- <img src="images/prediction results.png" />
- <img src="images/score results.png" /> 
+ <img src="images/prediction result.png" />
+ <img src="images/score result.png" /> 
  <br></br>
  Results
 </p>
