@@ -158,3 +158,7 @@ The following is a summary of what was done in this project:
 <p align = "justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Based on the results obtained, I got accuracy 0.79425 (top 7 %) with KNN algorithm.
 </p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+For details you can check my code : [Prediction Bitcoin Price with Gated Recurrent Unit (RNN).ipynb](https://github.com/rifkyahmadsaputra/Prediction-Bitcoin-Price-with-Gated-Recurrent-Unit-RNN/blob/master/Prediction%20Bitcoin%20Price%20with%20Gated%20Recurrent%20Unit%20%20(RNN).ipynb)
