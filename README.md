@@ -116,7 +116,7 @@ The following is a summary of what was done in this project:
 </p>
 
 <p align = "justify"> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After that, I ecode categorical data into numeric category with LabelEncoder and OneHotEncoder, and then do standardize the numerical data, so that each numerical columns/features have the same scale. In the last,  I analyze and select the columns/features that used in the model prediction. Then, i split the data into predictor/input variable (X) and target/output variable (y). Here are the features and pieces of data that I used for prediction.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After that, I ecode categorical data into numeric category with LabelEncoder and OneHotEncoder, and then do standardize the numerical data, so that each numerical columns/features have the same scale. In the last,  I analyze and select the columns/features that used in the model prediction. Then, i split the data into predictor/input variable (X) and target/output variable (y). Here are the features and pieces of data train that I used for prediction.
 </p>
 
 <p align="center"> 
