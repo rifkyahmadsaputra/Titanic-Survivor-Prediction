@@ -106,7 +106,7 @@ The following is a summary of what was done in this project:
 </p>
 
 <p align = "justify"> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And then, I identify and remove the outliers values, and then do log transform on column ‘Fare’ to make data more close into normal distribution.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And then, I identify and remove the outliers values. Then do log transform on column ‘Fare’ to make data more close into normal distribution.
 </p>
 
 <p align="center"> 
@@ -148,8 +148,8 @@ The following is a summary of what was done in this project:
 </p>
 
 <p align="center"> 
- <img src="images/prediction results.png" />
- <img src="images/score results.png" /> 
+ <img src="images/prediction result.png" />
+ <img src="images/score result.png" /> 
  <br></br>
  Results
 </p>
