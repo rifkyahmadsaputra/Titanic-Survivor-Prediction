@@ -121,9 +121,9 @@ The following is a summary of what was done in this project:
 
 <p align="center"> 
  <img src="images/features for prediction.png" />
- <img src="images/pieces of data for prediction.png" /> 
+ <img src="images/pieces of data train for prediction.png" /> 
  <br></br>
- Features and pieces of data for prediction
+ Features and pieces of data train for prediction
 </p>
 
 #### - Model Prediction and Results
