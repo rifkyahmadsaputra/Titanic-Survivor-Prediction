@@ -42,16 +42,15 @@ The following is a summary of what was done in this project:
 </p>
 
 <p align="center"> 
- Pieces of data and informations on each column data train
- <br></br>
  <img src="images/pieces of data train.png" /> 
  <img src="images/informations of data train.png" />
  <br></br>
- There are first five and information on each column data test:
+ Pieces of data and informations on each column data train
  <br></br>
  <img src="images/pieces of data test.png" /> 
  <img src="images/informations of data test.png" />
  <br></br>
+ Pieces of data and informations on each column data test
 </p>
 
 <p align = "justify"> 
