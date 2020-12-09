@@ -160,4 +160,4 @@ The following is a summary of what was done in this project:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-For details you can check my code : [Prediction Bitcoin Price with Gated Recurrent Unit (RNN).ipynb](https://github.com/rifkyahmadsaputra/Prediction-Bitcoin-Price-with-Gated-Recurrent-Unit-RNN/blob/master/Prediction%20Bitcoin%20Price%20with%20Gated%20Recurrent%20Unit%20%20(RNN).ipynb)
+For details you can check my code : [Titanic Survivor Prediction (Top 7%).ipynb](https://github.com/rifkyahmadsaputra/titanic-survivor-prediction/blob/master/Titanic%20Survivor%20Prediction%20%20(Top%207%25).ipynb)
