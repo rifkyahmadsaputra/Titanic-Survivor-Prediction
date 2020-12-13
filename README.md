@@ -2,7 +2,7 @@
 
 ## Introduction
 <p align = "justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this time I will share my work which is a prediction titanic survivor from kaggle. This is beginner competition from kaggle, that is, using machine learning to create a model that predicts which passengers survived the Titanic shipwreck (Source : https://www.kaggle.com/c/titanic).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At this time I will share my work which is a prediction titanic survivor from kaggle. This is beginner competition from kaggle, that is, using machine learning to create a model that predicts which passengers survived the Titanic shipwreck (Source : https://www.kaggle.com/c/titanic).
 </p>
 
 ## Results
